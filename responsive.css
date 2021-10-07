@@ -1,0 +1,105 @@
+@media only screen and (min-width:0) and (max-width: 575px){
+    .col-xs{
+        width: 33%;
+    }
+    .header .left_logo {
+        width: 92px;
+    }
+    .header .right_logo1 {
+        padding-top: 14px;
+        margin-left: 15px;
+    }
+    .banner{
+        text-align: center;
+        padding: 0;
+    }
+    .banner h2{
+        font-size: 22px;
+    } 
+    .text_bold {
+        font-size: 32px;
+    }
+    .feature_box {
+        margin: 15px 0;
+    }
+    .feature_boxes-border {
+        border-right: none;
+    }
+    .nav-pills .nav-link, .nav-pills .show > .nav-link{
+        margin: 5px;
+    }
+    .chose-us-icons img {
+        width: 80px;
+        margin-right: 25px;
+        margin-top: 38px;
+    }
+    .chose-us-box {
+        margin-top: 65px;
+    }
+}
+
+@media only screen and (min-width:576px) and (max-width: 767px){
+    .header .left_logo {
+        width: 92px;
+    }
+    .header .right_logo1 {
+        padding-top: 15px;
+    }
+    .banner{
+        text-align: center;
+        padding: 0;
+    }
+    .banner h2{
+        font-size: 32px;
+        margin-bottom: 15px;
+    } 
+    .text_bold {
+        font-size: 42px;
+    }
+    .feature_box {
+        margin: 15px 0;
+    }
+    .feature_boxes-border {
+        border-right: none;
+    }
+    .nav-pills .nav-link, .nav-pills .show > .nav-link{
+        margin: 5px;
+    }
+    .chose-us-icons img {
+        width: 80px;
+        margin-right: 25px;
+        margin-top: 38px;
+    }
+    .chose-us-box {
+        margin-top: 65px;
+    }
+
+}
+
+@media only screen and (min-width:768px) and (max-width: 991px){
+    .banner h2{
+        font-size: 22px;
+        margin-bottom: 15px;
+    } 
+    .text_bold {
+        font-size: 32px;
+    }
+    .feature_box {
+        margin: 15px 0;
+    }
+    .feature_boxes-border {
+        border-right: none;
+    }
+    .nav-pills .nav-link, .nav-pills .show > .nav-link{
+        margin: 5px;
+    }
+    .chose-us-icons img {
+        width: 80px;
+        margin-right: 25px;
+        margin-top: 38px;
+    }
+    .chose-us-box {
+        margin-top: 65px;
+    }
+
+}
